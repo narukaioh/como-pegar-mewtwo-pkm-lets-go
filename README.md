@@ -16,9 +16,9 @@ O moveset do demonio é:
 - Swift
 - Psychic
 
-*Amnésia, aumenta a Defesa Especial do Pokemon, do Mewtwo no caso*
-*Recover, recupera uma quantia significativa do HP do Mewtwo*
-*Swift, é um ataque do tipo **normal** e de natureza **especial***
-*Psychic, é so um ataque super forte do tipo Psiquico kkkk*
+- *Amnésia, aumenta a Defesa Especial do Pokemon, do Mewtwo no caso*
+- *Recover, recupera uma quantia significativa do HP do Mewtwo*
+- *Swift, é um ataque do tipo **normal** e de natureza **especial***
+- *Psychic, é so um ataque super forte do tipo Psiquico kkkk*
 
 ---
